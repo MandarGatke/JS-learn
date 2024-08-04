@@ -18,3 +18,14 @@ console.log(typeof undefined);
 console.log(typeof null);
 
 
+const heros = ["ironman", "thor", "hulk"] //Arrays
+//Objects
+let obj = {
+    name: "Mandar",
+    age: 21,
+}
+
+//function as variable
+const myfunc = function(){
+    console.log("Hello Mandar");
+}
